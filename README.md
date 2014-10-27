@@ -1,4 +1,4 @@
 dummyRepo1
 ==========
 
-Hello GitHub
+Hello GitHub~!
